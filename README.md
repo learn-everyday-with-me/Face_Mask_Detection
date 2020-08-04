@@ -9,3 +9,6 @@ Libraries:
   
   
 Harcascade classifier is used to detect face. The face is cropped and passed into Conv2D model ,to detect the mask and give a binary output.
+
+Data:
+  Find mask and without_mask dataset and use it to train the model, Change the path accordingly.
